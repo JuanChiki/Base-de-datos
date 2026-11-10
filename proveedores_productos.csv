@@ -1,0 +1,9 @@
+tipo,id,nombre,ciudad,sector,categoria,requiere_refrigeracion
+Proveedor,PRV01,Frutas del Valle S.A.S.,Cali,agroindustria,,
+Proveedor,PRV02,Lácteos del Eje Ltda.,Pereira,lácteos,,
+Proveedor,PRV03,Textiles Antioquia S.A.,Medellín,textil,,
+Proveedor,PRV04,Café Santander S.A.S.,Bucaramanga,agroindustria,,
+Producto,PRD01,Pulpa de fruta congelada,,,alimentos,true
+Producto,PRD02,Yogur y quesos,,,lácteos,true
+Producto,PRD03,Camisetas de algodón,,,textiles,false
+Producto,PRD04,Café pergamino seco,,,agrícola,false
